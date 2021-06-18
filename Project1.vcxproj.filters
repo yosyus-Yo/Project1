@@ -24,5 +24,11 @@
     <ClCompile Include="modern3.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="memoryLeak.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="memoryLeak2.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
