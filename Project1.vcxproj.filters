@@ -30,5 +30,8 @@
     <ClCompile Include="memoryLeak2.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="heapMemory1.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

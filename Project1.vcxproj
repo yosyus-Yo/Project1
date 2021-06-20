@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="heapMemory1.cpp" />
     <ClCompile Include="memoryLeak.cpp" />
     <ClCompile Include="memoryLeak2.cpp" />
     <ClCompile Include="modern.cpp">
