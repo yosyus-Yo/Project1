@@ -20,4 +20,6 @@ int main()
 	int count;
 	std::cin >> count;
 	std::vector<Cat>dynamicCats(count); //heap
+	
+	return 0;
 }
