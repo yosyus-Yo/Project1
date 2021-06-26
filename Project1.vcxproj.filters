@@ -36,5 +36,11 @@
     <ClCompile Include="QuickSort.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Preprocessor.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Preprocessor2.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

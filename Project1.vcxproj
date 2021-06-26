@@ -147,6 +147,8 @@
     </ClCompile>
     <ClCompile Include="modern2.cpp" />
     <ClCompile Include="modern3.cpp" />
+    <ClCompile Include="Preprocessor.cpp" />
+    <ClCompile Include="Preprocessor2.cpp" />
     <ClCompile Include="QuickSort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
