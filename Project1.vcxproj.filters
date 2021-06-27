@@ -42,5 +42,11 @@
     <ClCompile Include="Preprocessor2.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MoveZero.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="FindPivotIndex.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

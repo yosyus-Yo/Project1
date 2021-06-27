@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FindPivotIndex.cpp" />
     <ClCompile Include="heapMemory1.cpp" />
     <ClCompile Include="memoryLeak.cpp" />
     <ClCompile Include="memoryLeak2.cpp" />
@@ -147,6 +148,7 @@
     </ClCompile>
     <ClCompile Include="modern2.cpp" />
     <ClCompile Include="modern3.cpp" />
+    <ClCompile Include="MoveZero.cpp" />
     <ClCompile Include="Preprocessor.cpp" />
     <ClCompile Include="Preprocessor2.cpp" />
     <ClCompile Include="QuickSort.cpp" />
