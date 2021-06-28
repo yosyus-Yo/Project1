@@ -152,6 +152,7 @@
     <ClCompile Include="Preprocessor.cpp" />
     <ClCompile Include="Preprocessor2.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="sortColor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

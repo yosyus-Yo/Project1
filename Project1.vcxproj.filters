@@ -48,5 +48,8 @@
     <ClCompile Include="FindPivotIndex.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sortColor.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
