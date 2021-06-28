@@ -143,6 +143,7 @@
     <ClCompile Include="heapMemory1.cpp" />
     <ClCompile Include="memoryLeak.cpp" />
     <ClCompile Include="memoryLeak2.cpp" />
+    <ClCompile Include="MergeSort.cpp" />
     <ClCompile Include="modern.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
     </ClCompile>
