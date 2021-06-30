@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FindPeakElementeak.cpp" />
     <ClCompile Include="FindPivotIndex.cpp" />
     <ClCompile Include="heapMemory1.cpp" />
     <ClCompile Include="memoryLeak.cpp" />
