@@ -60,5 +60,13 @@
     <ClCompile Include="Shortest_Unsorted_Continuos_Subarray.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2sum.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="2sum_3sum_4sum.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
