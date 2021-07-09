@@ -154,6 +154,7 @@
     <ClCompile Include="Preprocessor.cpp" />
     <ClCompile Include="Preprocessor2.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="Shortest_Unsorted_Continuos_Subarray.cpp" />
     <ClCompile Include="sortColor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
