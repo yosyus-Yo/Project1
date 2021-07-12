@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -155,11 +156,10 @@
     <ClCompile Include="Preprocessor.cpp" />
     <ClCompile Include="Preprocessor2.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="RotateImage.cpp" />
+    <ClCompile Include="search2DImage.cpp" />
     <ClCompile Include="Shortest_Unsorted_Continuos_Subarray.cpp" />
     <ClCompile Include="sortColor.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="2sum_3sum_4sum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
