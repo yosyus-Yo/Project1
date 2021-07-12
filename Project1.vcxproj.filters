@@ -69,5 +69,8 @@
     <ClCompile Include="search2DImage.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StringMatch.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
