@@ -75,5 +75,8 @@
     <ClCompile Include="Palindrome.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="addstring.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

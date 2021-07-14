@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2sum.cpp" />
+    <ClCompile Include="addstring.cpp" />
     <ClCompile Include="FindPeakElementeak.cpp" />
     <ClCompile Include="FindPivotIndex.cpp" />
     <ClCompile Include="heapMemory1.cpp" />
