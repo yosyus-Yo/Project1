@@ -144,7 +144,9 @@
     <ClCompile Include="addstring.cpp" />
     <ClCompile Include="FindPeakElementeak.cpp" />
     <ClCompile Include="FindPivotIndex.cpp" />
+    <ClCompile Include="groupAnagrams.cpp" />
     <ClCompile Include="heapMemory1.cpp" />
+    <ClCompile Include="LongestSubstring.cpp" />
     <ClCompile Include="memoryLeak.cpp" />
     <ClCompile Include="memoryLeak2.cpp" />
     <ClCompile Include="MergeSort.cpp" />

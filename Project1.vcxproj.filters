@@ -78,5 +78,11 @@
     <ClCompile Include="addstring.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="groupAnagrams.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestSubstring.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
