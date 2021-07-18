@@ -164,6 +164,7 @@
     <ClCompile Include="search2DImage.cpp" />
     <ClCompile Include="Shortest_Unsorted_Continuos_Subarray.cpp" />
     <ClCompile Include="sortColor.cpp" />
+    <ClCompile Include="stack.cpp" />
     <ClCompile Include="StringMatch.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
