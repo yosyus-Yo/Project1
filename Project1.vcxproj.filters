@@ -90,5 +90,8 @@
     <ClCompile Include="min_max_stack.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Remove Adjacent Duplicates.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

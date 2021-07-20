@@ -161,6 +161,7 @@
     <ClCompile Include="Preprocessor.cpp" />
     <ClCompile Include="Preprocessor2.cpp" />
     <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="Remove Adjacent Duplicates.cpp" />
     <ClCompile Include="RotateImage.cpp" />
     <ClCompile Include="search2DImage.cpp" />
     <ClCompile Include="Shortest_Unsorted_Continuos_Subarray.cpp" />
