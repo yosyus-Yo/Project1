@@ -17,22 +17,19 @@ void selectionSort(int arr[], int size)
 	} 
 }
 
-std::tuple<int, int> Sum(int nums[], int nums_size, int target) 
+std::tuple<int, int> Sum(int nums[], int nums_size, int target)
 {
 	selectionSort(nums, nums_size);
-	for (int i = 0; i < nums_size; i++) 
+	for (int i = 0; i < nums_size; i++)
 	{
 		for (int j = 0; j < nums_size; j++)
 		{
 			int temp = nums[i] + nums[j];
 			if (temp = target)
 			{
-				int arr[] = {i, j};
+				int arr[] = { i, j };
 				return std::tuple<int, int>(i, j);
 			}
-		}
+		}//asd
 	}
 }
-
-
-//urighaus
