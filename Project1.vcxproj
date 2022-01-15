@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="2sum.cpp" />
     <ClCompile Include="addstring.cpp" />
+    <ClCompile Include="FindFirstUniqueChharacter.cpp" />
     <ClCompile Include="FindPeakElementeak.cpp" />
     <ClCompile Include="FindPivotIndex.cpp" />
     <ClCompile Include="groupAnagrams.cpp" />
